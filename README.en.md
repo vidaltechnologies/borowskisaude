@@ -151,4 +151,4 @@ docs/                       # Logo and images used in this README
 
 ---
 
-© Borowski Saúde. All rights reserved.
+© Vidal Technologies. All rights reserved.
